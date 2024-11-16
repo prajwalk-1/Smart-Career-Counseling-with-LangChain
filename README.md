@@ -1,5 +1,8 @@
 # Career Counseling Chatbot
 
+![image (11)](https://github.com/user-attachments/assets/43ca1686-72cf-4aae-ac5e-089c562f71f9)
+
+
 ## Objective
 
 The **Career Counseling Chatbot** is an AI-driven platform designed to help users with personalized career guidance based on their profiles, resumes, and goals. It provides career advice, resume suggestions, and mock interviews for various industries. The system uses natural language processing and machine learning to analyze user inputs and provide actionable insights in real-time.
